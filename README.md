@@ -1,0 +1,2 @@
+# ai-accelerator-recipe-Bank-Personal-Loan-
+This use case helps to predict whether customer accept the personal loan offered in the last campaign or not (1/0).Dataset used for this case is Bank_Personal_Loan.xlsx After seeing the influence of predictor variables over target variable models were built using DecisionTreeClassifier, NaiveBayesClassifier, RandomForestClassifier, KNN to predict the target variable.
